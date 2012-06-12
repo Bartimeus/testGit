@@ -20,3 +20,8 @@ void testGit::showText()
 {
 	label->setText("ololo");
 }
+
+void testGit::pressButton()
+{
+}
+

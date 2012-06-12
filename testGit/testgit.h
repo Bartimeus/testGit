@@ -16,6 +16,7 @@ private:
 	Ui::testGitClass ui;
 
 	void showText();
+	void pressButton();
 };
 
 #endif // TESTGIT_H
