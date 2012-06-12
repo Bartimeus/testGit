@@ -7,6 +7,9 @@ testGit::testGit(QWidget *parent, Qt::WFlags flags)
 
 	QLabel *label = new QLabel(this);
 	QPushButtn *button = new  QPushButton(this);
+
+
+	QTextEdit *edit = new QTextEdit(this);
 }
 
 testGit::~testGit()
