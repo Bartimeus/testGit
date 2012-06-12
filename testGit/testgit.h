@@ -14,6 +14,8 @@ public:
 
 private:
 	Ui::testGitClass ui;
+
+	void showText();
 };
 
 #endif // TESTGIT_H
